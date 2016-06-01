@@ -8,4 +8,4 @@ The player will take control of the captain as they attempt to return to their s
 <li>	There is a Loot system within Captain Ecks, during gameplay the player can collect coins which are then converted into “Loot”, this loot can be spent in the shop on upgrades such as better weapons, more health, new abilities, etc. </li></ul>
 Captain Ecks provides a fun and challenging pirate adventure, with abilities and a loot system adding to the strategy involved with playing the game. 
 
-Captain makes use of technologies such as; Unreal Engine, Photoshop, Blender, Audacity, and Mixamo Fuse
+Captain makes use of technologies such as; Unreal Engine, Photoshop, Blender, Audacity, and Mixamo Fuse.

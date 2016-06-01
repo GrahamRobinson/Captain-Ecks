@@ -9,3 +9,4 @@ The player will take control of the captain as they attempt to return to their s
 Captain Ecks provides a fun and challenging pirate adventure, with abilities and a loot system adding to the strategy involved with playing the game. 
 
 Captain makes use of technologies such as; Unreal Engine, Photoshop, Blender, Audacity, and Mixamo Fuse.
+
